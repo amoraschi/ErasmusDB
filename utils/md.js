@@ -23,7 +23,7 @@ const list = Array.from(codes).sort((a, b) => countries[a].localeCompare(countri
 
   return (
 `<p>
-  <a href="${url}" target="_blank">
+  <a href="${url}">
     ${code} - ${countries[code]} (${countriesGroupedCode[code].length})
   </a>
 </p>`
@@ -37,7 +37,7 @@ codes.forEach((code) => {
   const list = countriesGroupedCode[code].map((item) => {
     const url = item.website_url?.startsWith('http') ? item.website_url : `//${item.website_url}`
 
-    return `<h4>${item.website_url != null ? `<a href="${url}" target="_blank">` : ''}${item.erasmus_code} - ${item.legal_name.toUpperCase()}${item.website_url != null ? '</a>' : ''}</h4>\n${item.city.toUpperCase()}, ${item.country_cd}\n\n${new Date(item.erasmus_eche_start).toLocaleDateString()} - ${new Date(item.erasmus_eche_end).toLocaleDateString()}\n\n---`
+    return `<h4>${item.website_url != null ? `<a href="${url}">` : ''}${item.erasmus_code} - ${item.legal_name.toUpperCase()}${item.website_url != null ? '</a>' : ''}</h4>\n${item.city.toUpperCase()}, ${item.country_cd}\n\n${new Date(item.erasmus_eche_start).toLocaleDateString()} - ${new Date(item.erasmus_eche_end).toLocaleDateString()}\n\n---`
   }).join('\n')
 
   const content = `<h3 align="center">Institutions in ${countries[code]}</h3>\n\n${list}`

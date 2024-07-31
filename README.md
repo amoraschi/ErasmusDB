@@ -14,197 +14,197 @@ ECHE is a pre-rerequisite for all higher education institutions located in a pro
 
 <!-- LIST BEGIN -->
 <p>
-  <a href="/countries/AL.md" target="_blank">
+  <a href="/countries/AL.md">
     AL - Albania (13)
   </a>
 </p>
 <p>
-  <a href="/countries/AT.md" target="_blank">
+  <a href="/countries/AT.md">
     AT - Austria (79)
   </a>
 </p>
 <p>
-  <a href="/countries/BE.md" target="_blank">
+  <a href="/countries/BE.md">
     BE - Belgium (81)
   </a>
 </p>
 <p>
-  <a href="/countries/BA.md" target="_blank">
+  <a href="/countries/BA.md">
     BA - Bosnia and Herzegovina (20)
   </a>
 </p>
 <p>
-  <a href="/countries/BG.md" target="_blank">
+  <a href="/countries/BG.md">
     BG - Bulgaria (53)
   </a>
 </p>
 <p>
-  <a href="/countries/HR.md" target="_blank">
+  <a href="/countries/HR.md">
     HR - Croatia (45)
   </a>
 </p>
 <p>
-  <a href="/countries/CY.md" target="_blank">
+  <a href="/countries/CY.md">
     CY - Cyprus (38)
   </a>
 </p>
 <p>
-  <a href="/countries/CZ.md" target="_blank">
+  <a href="/countries/CZ.md">
     CZ - Czech Republic (72)
   </a>
 </p>
 <p>
-  <a href="/countries/DK.md" target="_blank">
+  <a href="/countries/DK.md">
     DK - Denmark (38)
   </a>
 </p>
 <p>
-  <a href="/countries/EE.md" target="_blank">
+  <a href="/countries/EE.md">
     EE - Estonia (17)
   </a>
 </p>
 <p>
-  <a href="/countries/FI.md" target="_blank">
+  <a href="/countries/FI.md">
     FI - Finland (36)
   </a>
 </p>
 <p>
-  <a href="/countries/FR.md" target="_blank">
+  <a href="/countries/FR.md">
     FR - France (1649)
   </a>
 </p>
 <p>
-  <a href="/countries/DE.md" target="_blank">
+  <a href="/countries/DE.md">
     DE - Germany (379)
   </a>
 </p>
 <p>
-  <a href="/countries/EL.md" target="_blank">
+  <a href="/countries/EL.md">
     EL - Greece (32)
   </a>
 </p>
 <p>
-  <a href="/countries/HU.md" target="_blank">
+  <a href="/countries/HU.md">
     HU - Hungary (55)
   </a>
 </p>
 <p>
-  <a href="/countries/IS.md" target="_blank">
+  <a href="/countries/IS.md">
     IS - Iceland (7)
   </a>
 </p>
 <p>
-  <a href="/countries/IE.md" target="_blank">
+  <a href="/countries/IE.md">
     IE - Ireland (30)
   </a>
 </p>
 <p>
-  <a href="/countries/IT.md" target="_blank">
+  <a href="/countries/IT.md">
     IT - Italy (338)
   </a>
 </p>
 <p>
-  <a href="/countries/XK.md" target="_blank">
+  <a href="/countries/XK.md">
     XK - Kosovo (11)
   </a>
 </p>
 <p>
-  <a href="/countries/LV.md" target="_blank">
+  <a href="/countries/LV.md">
     LV - Latvia (46)
   </a>
 </p>
 <p>
-  <a href="/countries/LI.md" target="_blank">
+  <a href="/countries/LI.md">
     LI - Liechtenstein (2)
   </a>
 </p>
 <p>
-  <a href="/countries/LT.md" target="_blank">
+  <a href="/countries/LT.md">
     LT - Lithuania (34)
   </a>
 </p>
 <p>
-  <a href="/countries/LU.md" target="_blank">
+  <a href="/countries/LU.md">
     LU - Luxembourg (6)
   </a>
 </p>
 <p>
-  <a href="/countries/MK.md" target="_blank">
+  <a href="/countries/MK.md">
     MK - Macedonia (26)
   </a>
 </p>
 <p>
-  <a href="/countries/MT.md" target="_blank">
+  <a href="/countries/MT.md">
     MT - Malta (12)
   </a>
 </p>
 <p>
-  <a href="/countries/ME.md" target="_blank">
+  <a href="/countries/ME.md">
     ME - Montenegro (4)
   </a>
 </p>
 <p>
-  <a href="/countries/NL.md" target="_blank">
+  <a href="/countries/NL.md">
     NL - Netherlands (65)
   </a>
 </p>
 <p>
-  <a href="/countries/NO.md" target="_blank">
+  <a href="/countries/NO.md">
     NO - Norway (39)
   </a>
 </p>
 <p>
-  <a href="/countries/PL.md" target="_blank">
+  <a href="/countries/PL.md">
     PL - Poland (297)
   </a>
 </p>
 <p>
-  <a href="/countries/PT.md" target="_blank">
+  <a href="/countries/PT.md">
     PT - Portugal (85)
   </a>
 </p>
 <p>
-  <a href="/countries/RE.md" target="_blank">
+  <a href="/countries/RE.md">
     RE - Reunion (1)
   </a>
 </p>
 <p>
-  <a href="/countries/RO.md" target="_blank">
+  <a href="/countries/RO.md">
     RO - Romania (78)
   </a>
 </p>
 <p>
-  <a href="/countries/SM.md" target="_blank">
+  <a href="/countries/SM.md">
     SM - San Marino (1)
   </a>
 </p>
 <p>
-  <a href="/countries/RS.md" target="_blank">
+  <a href="/countries/RS.md">
     RS - Serbia (49)
   </a>
 </p>
 <p>
-  <a href="/countries/SK.md" target="_blank">
+  <a href="/countries/SK.md">
     SK - Slovakia (33)
   </a>
 </p>
 <p>
-  <a href="/countries/SI.md" target="_blank">
+  <a href="/countries/SI.md">
     SI - Slovenia (86)
   </a>
 </p>
 <p>
-  <a href="/countries/ES.md" target="_blank">
+  <a href="/countries/ES.md">
     ES - Spain (1806)
   </a>
 </p>
 <p>
-  <a href="/countries/SE.md" target="_blank">
+  <a href="/countries/SE.md">
     SE - Sweden (43)
   </a>
 </p>
 <p>
-  <a href="/countries/TR.md" target="_blank">
+  <a href="/countries/TR.md">
     TR - Turkey (206)
   </a>
 </p>
