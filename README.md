@@ -17,26 +17,20 @@ ECHE is a pre-rerequisite for all higher education institutions located in a pro
 <!-- LIST BEGIN -->
 
   <p align="center">
-    <a href="/AT">
-      Austria
-    </a>
-  </p>
-
-  <p align="center">
     <a href="/AL">
       Albania
     </a>
   </p>
 
   <p align="center">
-    <a href="/BE">
-      Belgium
+    <a href="/AT">
+      Austria
     </a>
   </p>
 
   <p align="center">
-    <a href="/NL">
-      Netherlands
+    <a href="/BE">
+      Belgium
     </a>
   </p>
 
@@ -53,6 +47,12 @@ ECHE is a pre-rerequisite for all higher education institutions located in a pro
   </p>
 
   <p align="center">
+    <a href="/HR">
+      Croatia
+    </a>
+  </p>
+
+  <p align="center">
     <a href="/CY">
       Cyprus
     </a>
@@ -65,20 +65,8 @@ ECHE is a pre-rerequisite for all higher education institutions located in a pro
   </p>
 
   <p align="center">
-    <a href="/DE">
-      Germany
-    </a>
-  </p>
-
-  <p align="center">
     <a href="/DK">
       Denmark
-    </a>
-  </p>
-
-  <p align="center">
-    <a href="/ES">
-      Spain
     </a>
   </p>
 
@@ -89,14 +77,20 @@ ECHE is a pre-rerequisite for all higher education institutions located in a pro
   </p>
 
   <p align="center">
+    <a href="/FI">
+      Finland
+    </a>
+  </p>
+
+  <p align="center">
     <a href="/FR">
       France
     </a>
   </p>
 
   <p align="center">
-    <a href="/RE">
-      Reunion
+    <a href="/DE">
+      Germany
     </a>
   </p>
 
@@ -107,26 +101,14 @@ ECHE is a pre-rerequisite for all higher education institutions located in a pro
   </p>
 
   <p align="center">
-    <a href="/HR">
-      Croatia
-    </a>
-  </p>
-
-  <p align="center">
     <a href="/HU">
       Hungary
     </a>
   </p>
 
   <p align="center">
-    <a href="/IT">
-      Italy
-    </a>
-  </p>
-
-  <p align="center">
-    <a href="/SM">
-      San Marino
+    <a href="/IS">
+      Iceland
     </a>
   </p>
 
@@ -137,8 +119,20 @@ ECHE is a pre-rerequisite for all higher education institutions located in a pro
   </p>
 
   <p align="center">
-    <a href="/IS">
-      Iceland
+    <a href="/IT">
+      Italy
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="/XK">
+      Kosovo
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="/LV">
+      Latvia
     </a>
   </p>
 
@@ -161,18 +155,6 @@ ECHE is a pre-rerequisite for all higher education institutions located in a pro
   </p>
 
   <p align="center">
-    <a href="/LV">
-      Latvia
-    </a>
-  </p>
-
-  <p align="center">
-    <a href="/ME">
-      Montenegro
-    </a>
-  </p>
-
-  <p align="center">
     <a href="/MK">
       Macedonia
     </a>
@@ -185,14 +167,20 @@ ECHE is a pre-rerequisite for all higher education institutions located in a pro
   </p>
 
   <p align="center">
-    <a href="/NO">
-      Norway
+    <a href="/ME">
+      Montenegro
     </a>
   </p>
 
   <p align="center">
-    <a href="/PT">
-      Portugal
+    <a href="/NL">
+      Netherlands
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="/NO">
+      Norway
     </a>
   </p>
 
@@ -203,8 +191,26 @@ ECHE is a pre-rerequisite for all higher education institutions located in a pro
   </p>
 
   <p align="center">
+    <a href="/PT">
+      Portugal
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="/RE">
+      Reunion
+    </a>
+  </p>
+
+  <p align="center">
     <a href="/RO">
       Romania
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="/SM">
+      San Marino
     </a>
   </p>
 
@@ -215,14 +221,8 @@ ECHE is a pre-rerequisite for all higher education institutions located in a pro
   </p>
 
   <p align="center">
-    <a href="/SE">
-      Sweden
-    </a>
-  </p>
-
-  <p align="center">
-    <a href="/FI">
-      Finland
+    <a href="/SK">
+      Slovakia
     </a>
   </p>
 
@@ -233,20 +233,20 @@ ECHE is a pre-rerequisite for all higher education institutions located in a pro
   </p>
 
   <p align="center">
-    <a href="/SK">
-      Slovakia
+    <a href="/ES">
+      Spain
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="/SE">
+      Sweden
     </a>
   </p>
 
   <p align="center">
     <a href="/TR">
       Turkey
-    </a>
-  </p>
-
-  <p align="center">
-    <a href="/XK">
-      Kosovo
     </a>
   </p>
 <!-- LIST END -->

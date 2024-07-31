@@ -24,7 +24,7 @@ const data = JSON.parse(readFileSync('data/destinations.json', 'utf8'))
 // writeFileSync('README.md', updatedReadme)
 
 const codes = new Set(data.map((item) => item.country_cd))
-const list = Array.from(codes).map((code) => {
+const list = Array.from(codes).sort((a, b) => countries[a].localeCompare(countries[b])).map((code) => {
   const url = `/${code}`
 
   return `
