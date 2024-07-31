@@ -32,7 +32,7 @@ const list = Array.from(codes).map((code) => {
     <a href="${url}">
       ${countries[code]}
     </a>
-  </span>`
+  </span>\n`
 }).join('\n')
 
 const updatedReadme = `${readme.slice(0, start)}\n${list}\n${readme.slice(end)}`

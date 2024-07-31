@@ -20,11 +20,13 @@ ECHE is a pre-rerequisite for all higher education institutions located in a pro
     </a>
   </span>
 
+
   <span>
     <a href="/AL">
       Albania
     </a>
   </span>
+
 
   <span>
     <a href="/BE">
@@ -32,11 +34,13 @@ ECHE is a pre-rerequisite for all higher education institutions located in a pro
     </a>
   </span>
 
+
   <span>
     <a href="/NL">
       Netherlands
     </a>
   </span>
+
 
   <span>
     <a href="/BA">
@@ -44,11 +48,13 @@ ECHE is a pre-rerequisite for all higher education institutions located in a pro
     </a>
   </span>
 
+
   <span>
     <a href="/BG">
       Bulgaria
     </a>
   </span>
+
 
   <span>
     <a href="/CY">
@@ -56,11 +62,13 @@ ECHE is a pre-rerequisite for all higher education institutions located in a pro
     </a>
   </span>
 
+
   <span>
     <a href="/CZ">
       Czech Republic
     </a>
   </span>
+
 
   <span>
     <a href="/DE">
@@ -68,11 +76,13 @@ ECHE is a pre-rerequisite for all higher education institutions located in a pro
     </a>
   </span>
 
+
   <span>
     <a href="/DK">
       Denmark
     </a>
   </span>
+
 
   <span>
     <a href="/ES">
@@ -80,11 +90,13 @@ ECHE is a pre-rerequisite for all higher education institutions located in a pro
     </a>
   </span>
 
+
   <span>
     <a href="/EE">
       Estonia
     </a>
   </span>
+
 
   <span>
     <a href="/FR">
@@ -92,11 +104,13 @@ ECHE is a pre-rerequisite for all higher education institutions located in a pro
     </a>
   </span>
 
+
   <span>
     <a href="/RE">
       Reunion
     </a>
   </span>
+
 
   <span>
     <a href="/EL">
@@ -104,11 +118,13 @@ ECHE is a pre-rerequisite for all higher education institutions located in a pro
     </a>
   </span>
 
+
   <span>
     <a href="/HR">
       Croatia
     </a>
   </span>
+
 
   <span>
     <a href="/HU">
@@ -116,11 +132,13 @@ ECHE is a pre-rerequisite for all higher education institutions located in a pro
     </a>
   </span>
 
+
   <span>
     <a href="/IT">
       Italy
     </a>
   </span>
+
 
   <span>
     <a href="/SM">
@@ -128,11 +146,13 @@ ECHE is a pre-rerequisite for all higher education institutions located in a pro
     </a>
   </span>
 
+
   <span>
     <a href="/IE">
       Ireland
     </a>
   </span>
+
 
   <span>
     <a href="/IS">
@@ -140,11 +160,13 @@ ECHE is a pre-rerequisite for all higher education institutions located in a pro
     </a>
   </span>
 
+
   <span>
     <a href="/LI">
       Liechtenstein
     </a>
   </span>
+
 
   <span>
     <a href="/LT">
@@ -152,11 +174,13 @@ ECHE is a pre-rerequisite for all higher education institutions located in a pro
     </a>
   </span>
 
+
   <span>
     <a href="/LU">
       Luxembourg
     </a>
   </span>
+
 
   <span>
     <a href="/LV">
@@ -164,11 +188,13 @@ ECHE is a pre-rerequisite for all higher education institutions located in a pro
     </a>
   </span>
 
+
   <span>
     <a href="/ME">
       Montenegro
     </a>
   </span>
+
 
   <span>
     <a href="/MK">
@@ -176,11 +202,13 @@ ECHE is a pre-rerequisite for all higher education institutions located in a pro
     </a>
   </span>
 
+
   <span>
     <a href="/MT">
       Malta
     </a>
   </span>
+
 
   <span>
     <a href="/NO">
@@ -188,11 +216,13 @@ ECHE is a pre-rerequisite for all higher education institutions located in a pro
     </a>
   </span>
 
+
   <span>
     <a href="/PT">
       Portugal
     </a>
   </span>
+
 
   <span>
     <a href="/PL">
@@ -200,11 +230,13 @@ ECHE is a pre-rerequisite for all higher education institutions located in a pro
     </a>
   </span>
 
+
   <span>
     <a href="/RO">
       Romania
     </a>
   </span>
+
 
   <span>
     <a href="/RS">
@@ -212,11 +244,13 @@ ECHE is a pre-rerequisite for all higher education institutions located in a pro
     </a>
   </span>
 
+
   <span>
     <a href="/SE">
       Sweden
     </a>
   </span>
+
 
   <span>
     <a href="/FI">
@@ -224,11 +258,13 @@ ECHE is a pre-rerequisite for all higher education institutions located in a pro
     </a>
   </span>
 
+
   <span>
     <a href="/SI">
       Slovenia
     </a>
   </span>
+
 
   <span>
     <a href="/SK">
@@ -236,15 +272,18 @@ ECHE is a pre-rerequisite for all higher education institutions located in a pro
     </a>
   </span>
 
+
   <span>
     <a href="/TR">
       Turkey
     </a>
   </span>
 
+
   <span>
     <a href="/XK">
       Kosovo
     </a>
   </span>
+
 <!-- LIST END -->
