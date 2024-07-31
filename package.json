@@ -1,0 +1,17 @@
+{
+  "name": "erasmusdb",
+  "version": "1.0.0",
+  "description": "Erasmus+ Destinations",
+  "main": "data/readme.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "xlsx": "^0.18.5"
+  }
+}
