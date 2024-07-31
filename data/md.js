@@ -28,12 +28,11 @@ const list = Array.from(codes).map((code) => {
   const url = `/${code}`
 
   return `
-  <span>
+  <p align="center">
     <a href="${url}">
       ${countries[code]}
     </a>
-  </span>
-  <br />`
+  </p>`
 }).join('\n')
 
 const updatedReadme = `${readme.slice(0, start)}\n${list}\n${readme.slice(end)}`

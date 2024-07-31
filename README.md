@@ -8,282 +8,245 @@
 
 ECHE is a pre-rerequisite for all higher education institutions located in a programme country and willing to participate in learning mobility of individuals and/or cooperation for innovation and good practices under Erasmus+
 
-<h4>
+<h4 align="center">
   Countries
 </h4>
 
+---
+
 <!-- LIST BEGIN -->
 
-  <span>
+  <p align="center">
     <a href="/AT">
       Austria
     </a>
-  </span>
-  <br />
+  </p>
 
-  <span>
+  <p align="center">
     <a href="/AL">
       Albania
     </a>
-  </span>
-  <br />
+  </p>
 
-  <span>
+  <p align="center">
     <a href="/BE">
       Belgium
     </a>
-  </span>
-  <br />
+  </p>
 
-  <span>
+  <p align="center">
     <a href="/NL">
       Netherlands
     </a>
-  </span>
-  <br />
+  </p>
 
-  <span>
+  <p align="center">
     <a href="/BA">
       Bosnia and Herzegovina
     </a>
-  </span>
-  <br />
+  </p>
 
-  <span>
+  <p align="center">
     <a href="/BG">
       Bulgaria
     </a>
-  </span>
-  <br />
+  </p>
 
-  <span>
+  <p align="center">
     <a href="/CY">
       Cyprus
     </a>
-  </span>
-  <br />
+  </p>
 
-  <span>
+  <p align="center">
     <a href="/CZ">
       Czech Republic
     </a>
-  </span>
-  <br />
+  </p>
 
-  <span>
+  <p align="center">
     <a href="/DE">
       Germany
     </a>
-  </span>
-  <br />
+  </p>
 
-  <span>
+  <p align="center">
     <a href="/DK">
       Denmark
     </a>
-  </span>
-  <br />
+  </p>
 
-  <span>
+  <p align="center">
     <a href="/ES">
       Spain
     </a>
-  </span>
-  <br />
+  </p>
 
-  <span>
+  <p align="center">
     <a href="/EE">
       Estonia
     </a>
-  </span>
-  <br />
+  </p>
 
-  <span>
+  <p align="center">
     <a href="/FR">
       France
     </a>
-  </span>
-  <br />
+  </p>
 
-  <span>
+  <p align="center">
     <a href="/RE">
       Reunion
     </a>
-  </span>
-  <br />
+  </p>
 
-  <span>
+  <p align="center">
     <a href="/EL">
       Greece
     </a>
-  </span>
-  <br />
+  </p>
 
-  <span>
+  <p align="center">
     <a href="/HR">
       Croatia
     </a>
-  </span>
-  <br />
+  </p>
 
-  <span>
+  <p align="center">
     <a href="/HU">
       Hungary
     </a>
-  </span>
-  <br />
+  </p>
 
-  <span>
+  <p align="center">
     <a href="/IT">
       Italy
     </a>
-  </span>
-  <br />
+  </p>
 
-  <span>
+  <p align="center">
     <a href="/SM">
       San Marino
     </a>
-  </span>
-  <br />
+  </p>
 
-  <span>
+  <p align="center">
     <a href="/IE">
       Ireland
     </a>
-  </span>
-  <br />
+  </p>
 
-  <span>
+  <p align="center">
     <a href="/IS">
       Iceland
     </a>
-  </span>
-  <br />
+  </p>
 
-  <span>
+  <p align="center">
     <a href="/LI">
       Liechtenstein
     </a>
-  </span>
-  <br />
+  </p>
 
-  <span>
+  <p align="center">
     <a href="/LT">
       Lithuania
     </a>
-  </span>
-  <br />
+  </p>
 
-  <span>
+  <p align="center">
     <a href="/LU">
       Luxembourg
     </a>
-  </span>
-  <br />
+  </p>
 
-  <span>
+  <p align="center">
     <a href="/LV">
       Latvia
     </a>
-  </span>
-  <br />
+  </p>
 
-  <span>
+  <p align="center">
     <a href="/ME">
       Montenegro
     </a>
-  </span>
-  <br />
+  </p>
 
-  <span>
+  <p align="center">
     <a href="/MK">
       Macedonia
     </a>
-  </span>
-  <br />
+  </p>
 
-  <span>
+  <p align="center">
     <a href="/MT">
       Malta
     </a>
-  </span>
-  <br />
+  </p>
 
-  <span>
+  <p align="center">
     <a href="/NO">
       Norway
     </a>
-  </span>
-  <br />
+  </p>
 
-  <span>
+  <p align="center">
     <a href="/PT">
       Portugal
     </a>
-  </span>
-  <br />
+  </p>
 
-  <span>
+  <p align="center">
     <a href="/PL">
       Poland
     </a>
-  </span>
-  <br />
+  </p>
 
-  <span>
+  <p align="center">
     <a href="/RO">
       Romania
     </a>
-  </span>
-  <br />
+  </p>
 
-  <span>
+  <p align="center">
     <a href="/RS">
       Serbia
     </a>
-  </span>
-  <br />
+  </p>
 
-  <span>
+  <p align="center">
     <a href="/SE">
       Sweden
     </a>
-  </span>
-  <br />
+  </p>
 
-  <span>
+  <p align="center">
     <a href="/FI">
       Finland
     </a>
-  </span>
-  <br />
+  </p>
 
-  <span>
+  <p align="center">
     <a href="/SI">
       Slovenia
     </a>
-  </span>
-  <br />
+  </p>
 
-  <span>
+  <p align="center">
     <a href="/SK">
       Slovakia
     </a>
-  </span>
-  <br />
+  </p>
 
-  <span>
+  <p align="center">
     <a href="/TR">
       Turkey
     </a>
-  </span>
-  <br />
+  </p>
 
-  <span>
+  <p align="center">
     <a href="/XK">
       Kosovo
     </a>
-  </span>
-  <br />
+  </p>
 <!-- LIST END -->
