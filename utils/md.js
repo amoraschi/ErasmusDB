@@ -37,12 +37,13 @@ const countriesGroupedCode = data.reduce((acc, item) => {
 const list = Array.from(codes).sort((a, b) => countries[a].localeCompare(countries[b])).map((code) => {
   const url = `/countries/${code}.md`
 
-  return `
-  <p align="center">
-    <a href="${url}">
-      ${countries[code]}
-    </a>
-  </p>`
+  return (
+`<p>
+  <a href="${url}">
+    ${code} - ${countries[code]} (${countriesGroupedCode[code].length})
+  </a>
+</p>`
+  )
 }).join('\n')
 
 const updatedReadme = `${readme.slice(0, start)}\n${list}\n${readme.slice(end)}`
@@ -52,16 +53,10 @@ codes.forEach((code) => {
   const list = countriesGroupedCode[code].map((item) => {
     const url = item.website_url?.startsWith('http') ? item.website_url : `//${item.website_url}`
 
-    return (
-`<h4>
-  ${item.website_url != null ? `<a href="${url}">` : ''}
-    ${item.legal_name}
-  ${item.website_url != null ? '</a>' : ''}
-</h4>
-${item.city.toUpperCase()}, ${item.country_cd}
-\n---`
-    )
+    return `<h4>${item.website_url != null ? `<a href="${url}">` : ''}${item.erasmus_code} - ${item.legal_name.toUpperCase()}${item.website_url != null ? '</a>' : ''}</h4>\n${item.city.toUpperCase()}, ${item.country_cd}\nStart Date: ${new Date(item.erasmus_eche_start).toUTCString()}\nEnd Date: ${new Date(item.erasmus_eche_end).toUTCString()}\n\n---`
   }).join('\n')
 
-  writeFileSync(`countries/${code}.md`, list)
+  const content = `<h3 align="center">Institutions in ${countries[code]}</h3>\n\n${list}`
+
+  writeFileSync(`countries/${code}.md`, content)
 })

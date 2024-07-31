@@ -1,424 +1,320 @@
-<h4>
-  <a href="//www.vum.bg">
-    VISSHE UCHILISHTE PO MENIDZHMANT
-  </a>
-</h4>
+<h3 align="center">Institutions in Bulgaria</h3>
+
+<h4><a href="//www.vum.bg">BG ALBENA01 - VISSHE UCHILISHTE PO MENIDZHMANT</a></h4>
 VARNA, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.swu.bg">
-    SOUTH-WEST UNIVERSITY NEOFIT RILSKI
-  </a>
-</h4>
+<h4><a href="//www.swu.bg">BG BLAGOEV02 - SOUTH-WEST UNIVERSITY NEOFIT RILSKI</a></h4>
 BLAGOEVGRAD, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.aubg.edu">
-    AMERICAN UNIVERSITY IN BULGARIA
-  </a>
-</h4>
+<h4><a href="//www.aubg.edu">BG BLAGOEV03 - AMERICAN UNIVERSITY IN BULGARIA</a></h4>
 BLAGOEVGRAD, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.ibsedu.bg">
-    International Business School
-  </a>
-</h4>
+<h4><a href="//www.ibsedu.bg">BG BOTEVGR02 - INTERNATIONAL BUSINESS SCHOOL</a></h4>
 BOTEVGRAD, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.bfu.bg">
-    BURGASKI SVOBODEN UNIVERSITET
-  </a>
-</h4>
+<h4><a href="//www.bfu.bg">BG BOURGAS01 - BURGASKI SVOBODEN UNIVERSITET</a></h4>
 BURGAS, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  
-    PROF DR ASEN ZLATAROV UNIVERSITY
-  
-</h4>
+<h4>BG BOURGAS02 - PROF DR ASEN ZLATAROV UNIVERSITY</h4>
 BOURGAS, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.tugab.bg">
-    TECHNICAL UNIVERSITY - GABROVO
-  </a>
-</h4>
+<h4><a href="//www.tugab.bg">BG GABROVO01 - TECHNICAL UNIVERSITY - GABROVO</a></h4>
 GABROVO, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="http://www.epu.bg">
-    EUROPEAN POLYTECHNICAL UNIVERSITY
-  </a>
-</h4>
+<h4><a href="http://www.epu.bg">BG PERNIK01 - EUROPEAN POLYTECHNICAL UNIVERSITY</a></h4>
 PERNIK, BG
+Start Date: Thu, 29 Jun 2023 22:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.mu-pleven.bg">
-    UNIVERSITY OF MEDICINE - PLEVEN
-  </a>
-</h4>
+<h4><a href="//www.mu-pleven.bg">BG PLEVEN01 - UNIVERSITY OF MEDICINE - PLEVEN</a></h4>
 PLEVEN, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="http://www.af-acad.bg/">
-    Vishe Voennovazdushno uchilishte "Georgi Benkovski"
-  </a>
-</h4>
+<h4><a href="http://www.af-acad.bg/">BG PLEVEN02 - VISHE VOENNOVAZDUSHNO UCHILISHTE "GEORGI BENKOVSKI"</a></h4>
 DOLNA MITROPOLIA, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.au-plovdiv.bg">
-    AGRAREN UNIVERSITET - PLOVDIV
-  </a>
-</h4>
+<h4><a href="//www.au-plovdiv.bg">BG PLOVDIV01 - AGRAREN UNIVERSITET - PLOVDIV</a></h4>
 PLOVDIV, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.mu-plovdiv.bg">
-    MEDITCINSKY UNIVERSITET-PLOVDIV
-  </a>
-</h4>
+<h4><a href="//www.mu-plovdiv.bg">BG PLOVDIV02 - MEDITCINSKY UNIVERSITET-PLOVDIV</a></h4>
 PLOVDIV, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.uni-plovdiv.bg">
-    PLOVDIVSKI UNIVERSITET PAISIY HILENDARSKI
-  </a>
-</h4>
+<h4><a href="//www.uni-plovdiv.bg">BG PLOVDIV04 - PLOVDIVSKI UNIVERSITET PAISIY HILENDARSKI</a></h4>
 PLOVDIV, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="http://uft-plovdiv.bg/">
-    University of Food Technologies
-  </a>
-</h4>
+<h4><a href="http://uft-plovdiv.bg/">BG PLOVDIV05 - UNIVERSITY OF FOOD TECHNOLOGIES</a></h4>
 PLOVDIV, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.artacademyplovdiv.com">
-    AKADEMIYA ZA MUZIKALNO TANTZOVO I IZOBRAZITELNO IZKUSTVO PLOVDIV
-  </a>
-</h4>
+<h4><a href="//www.artacademyplovdiv.com">BG PLOVDIV07 - AKADEMIYA ZA MUZIKALNO TANTZOVO I IZOBRAZITELNO IZKUSTVO PLOVDIV</a></h4>
 PLOVDIV, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.uard.bg">
-    VU PO AGROBIZNES I RAZVITIE NA REGIONITE - PLOVDIV
-  </a>
-</h4>
+<h4><a href="//www.uard.bg">BG PLOVDIV09 - VU PO AGROBIZNES I RAZVITIE NA REGIONITE - PLOVDIV</a></h4>
 PLOVDIV, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.vusi.bg">
-    VUSI
-  </a>
-</h4>
+<h4><a href="//www.vusi.bg">BG PLOVDIV10 - VUSI</a></h4>
 PLOVDIV, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.uni-ruse.bg">
-    UNIVERSITY OF RUSE ANGEL KANCHEV
-  </a>
-</h4>
+<h4><a href="//www.uni-ruse.bg">BG ROUSSE01 - UNIVERSITY OF RUSE ANGEL KANCHEV</a></h4>
 RUSE, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="http://www.shu-bg.net">
-    SHUMENSKI UNIVERSITET EPISKOP KONSTANTIN PRESLAVSKI
-  </a>
-</h4>
+<h4><a href="http://www.shu-bg.net">BG SHOUMEN01 - SHUMENSKI UNIVERSITET EPISKOP KONSTANTIN PRESLAVSKI</a></h4>
 SHUMEN, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.nbu.bg">
-    NEW BULGARIAN UNIVERSITY
-  </a>
-</h4>
+<h4><a href="//www.nbu.bg">BG SOFIA02 - NEW BULGARIAN UNIVERSITY</a></h4>
 SOFIA, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="https://www.unwe.bg">
-    UNIVERSITY OF NATIONAL AND WORLD ECONOMY
-  </a>
-</h4>
+<h4><a href="https://www.unwe.bg">BG SOFIA03 - UNIVERSITY OF NATIONAL AND WORLD ECONOMY</a></h4>
 SOFIA, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.uacg.bg">
-    UNIVERSITET PO ARCHITEKTURA STROITELSTVO I GEODEZIJA
-  </a>
-</h4>
+<h4><a href="//www.uacg.bg">BG SOFIA04 - UNIVERSITET PO ARCHITEKTURA STROITELSTVO I GEODEZIJA</a></h4>
 SOFIA, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.uni-sofia.bg">
-    SOFIA UNIVERSITY ST KLIMENT OHRIDSKI
-  </a>
-</h4>
+<h4><a href="//www.uni-sofia.bg">BG SOFIA06 - SOFIA UNIVERSITY ST KLIMENT OHRIDSKI</a></h4>
 SOFIA, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.nha.bg">
-    Nazionalna Hudojestvena Akademia
-  </a>
-</h4>
+<h4><a href="//www.nha.bg">BG SOFIA08 - NAZIONALNA HUDOJESTVENA AKADEMIA</a></h4>
 SOFIA, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.mgu.bg">
-    MINNO-GEOLOZHKI UNIVERSITET ST IVANRILSKI
-  </a>
-</h4>
+<h4><a href="//www.mgu.bg">BG SOFIA09 - MINNO-GEOLOZHKI UNIVERSITET ST IVANRILSKI</a></h4>
 SOFIA, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.mu-sofia.bg">
-    MEDICAL UNIVERSITY SOFIA
-  </a>
-</h4>
+<h4><a href="//www.mu-sofia.bg">BG SOFIA11 - MEDICAL UNIVERSITY SOFIA</a></h4>
 SOFIA, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.ltu.bg">
-    University of Forestry
-  </a>
-</h4>
+<h4><a href="//www.ltu.bg">BG SOFIA12 - UNIVERSITY OF FORESTRY</a></h4>
 SOFIA, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.nma.bg">
-    NATIONAL ACADEMY OF MUSIC"PROF.PANCHO VLADIGEROV"
-  </a>
-</h4>
+<h4><a href="//www.nma.bg">BG SOFIA13 - NATIONAL ACADEMY OF MUSIC"PROF.PANCHO VLADIGEROV"</a></h4>
 SOFIA, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="http://www.tu-sofia.bg">
-    TECHNICAL UNIVERSITY OF SOFIA
-  </a>
-</h4>
+<h4><a href="http://www.tu-sofia.bg">BG SOFIA16 - TECHNICAL UNIVERSITY OF SOFIA</a></h4>
 SOFIA, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.nsa.bg">
-    NATSIONALNA SPORTNA AKADEMIYA VASSIL LEVSKI
-  </a>
-</h4>
+<h4><a href="//www.nsa.bg">BG SOFIA17 - NATSIONALNA SPORTNA AKADEMIYA VASSIL LEVSKI</a></h4>
 SOFIA, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.natfiz.bg">
-    NATZIONALNA AKADEMIYA ZA TEATRALNO I FILMOVO IZKUSTVO (NATFIZ)
-  </a>
-</h4>
+<h4><a href="//www.natfiz.bg">BG SOFIA18 - NATZIONALNA AKADEMIYA ZA TEATRALNO I FILMOVO IZKUSTVO (NATFIZ)</a></h4>
 SOFIA, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.uctm.edu">
-    CHIMIKOTECHNOLOGITCHEN I METALURGITCHEN UNIVERSITET
-  </a>
-</h4>
+<h4><a href="//www.uctm.edu">BG SOFIA20 - CHIMIKOTECHNOLOGITCHEN I METALURGITCHEN UNIVERSITET</a></h4>
 SOFIA, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.vsu.bg">
-    VISSHE STROITELNO UCHILISHTE LYUBEN KARAVELOV
-  </a>
-</h4>
+<h4><a href="//www.vsu.bg">BG SOFIA21 - VISSHE STROITELNO UCHILISHTE LYUBEN KARAVELOV</a></h4>
 SOFIA, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//vtu.bg">
-    Higher School of Transport "Todor Kableshkov"-Sofia
-  </a>
-</h4>
+<h4><a href="//vtu.bg">BG SOFIA22 - HIGHER SCHOOL OF TRANSPORT "TODOR KABLESHKOV"-SOFIA</a></h4>
 SOFIA, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.unibit.bg">
-    UNIVERSITET PO BIBLIOTEKOZNANIE I INFORMACIONNI TEHNOLOGII
-  </a>
-</h4>
+<h4><a href="//www.unibit.bg">BG SOFIA24 - UNIVERSITET PO BIBLIOTEKOZNANIE I INFORMACIONNI TEHNOLOGII</a></h4>
 SOFIA, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.mtmcollege.org">
-    College of Management, Trade and Marketing
-  </a>
-</h4>
+<h4><a href="//www.mtmcollege.org">BG SOFIA26 - COLLEGE OF MANAGEMENT, TRADE AND MARKETING</a></h4>
 SOFIA, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="https://www.utp.bg">
-    VISHE UCHILISHTE PO TELEKOMUNIKATSI I POSHTI
-  </a>
-</h4>
+<h4><a href="https://www.utp.bg">BG SOFIA28 - VISHE UCHILISHTE PO TELEKOMUNIKATSI I POSHTI</a></h4>
 SOFIA, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.bas.bg">
-    BULGARIAN ACADEMY OF SCIENCES
-  </a>
-</h4>
+<h4><a href="//www.bas.bg">BG SOFIA30 - BULGARIAN ACADEMY OF SCIENCES</a></h4>
 SOFIA, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.vuzf.bg">
-    HIGHER INSTITUTE OF INSURANCE AND FINANCE
-  </a>
-</h4>
+<h4><a href="//www.vuzf.bg">BG SOFIA31 - HIGHER INSTITUTE OF INSURANCE AND FINANCE</a></h4>
 SOFIA, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="https://www.mvr.bg/academy">
-    ACADEMY OF THE MINISTRY OF INTERIOR BULGARIA
-  </a>
-</h4>
+<h4><a href="https://www.mvr.bg/academy">BG SOFIA32 - ACADEMY OF THE MINISTRY OF INTERIOR BULGARIA</a></h4>
 SOFIA, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="http://www.agriacad.bg">
-    AGRICULTURAL ACADEMY
-  </a>
-</h4>
+<h4><a href="http://www.agriacad.bg">BG SOFIA33 - AGRICULTURAL ACADEMY</a></h4>
 SOFIA, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="http://rnda.armf.bg">
-    National Defence College "G. S. Rakovski"
-  </a>
-</h4>
+<h4><a href="http://rnda.armf.bg">BG SOFIA34 - NATIONAL DEFENCE COLLEGE "G. S. RAKOVSKI"</a></h4>
 SOFIA, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//lgroys-college.com">
-    Teatralen kolej "Lyuben Grois"
-  </a>
-</h4>
+<h4><a href="//lgroys-college.com">BG SOFIA35 - TEATRALEN KOLEJ "LYUBEN GROIS"</a></h4>
 SOFIA, BG
+Start Date: Tue, 25 Oct 2022 22:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="http://di.mod.bg">
-    INSTITUT PO OTBRANA
-  </a>
-</h4>
+<h4><a href="http://di.mod.bg">BG SOFIA36 - INSTITUT PO OTBRANA</a></h4>
 SOFIA, BG
+Start Date: Tue, 25 Oct 2022 22:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.trakia-uni.bg">
-    TRAKIYSKI UNIVERSITET
-  </a>
-</h4>
+<h4><a href="//www.trakia-uni.bg">BG STARA-Z01 - TRAKIYSKI UNIVERSITET</a></h4>
 STARA ZAGORA, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="http://www.uni-svishtov.bg">
-    D. A. Tsenov Academy of Economics
-  </a>
-</h4>
+<h4><a href="http://www.uni-svishtov.bg">BG SVISHTO02 - D. A. TSENOV ACADEMY OF ECONOMICS</a></h4>
 SVISHTOV, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.vfu.bg">
-    VARNA FREE UNIVERSITY
-  </a>
-</h4>
+<h4><a href="//www.vfu.bg">BG VARNA01 - VARNA FREE UNIVERSITY</a></h4>
 VARNA, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="http://www2.tu-varna.bg/tu-varna/">
-    TECHNICAL UNIVERSITY OF VARNA
-  </a>
-</h4>
+<h4><a href="http://www2.tu-varna.bg/tu-varna/">BG VARNA02 - TECHNICAL UNIVERSITY OF VARNA</a></h4>
 VARNA, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="http://mu-varna.bg/EN">
-    Medical University Of Varna
-  </a>
-</h4>
+<h4><a href="http://mu-varna.bg/EN">BG VARNA03 - MEDICAL UNIVERSITY OF VARNA</a></h4>
 VARNA, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="http://ue-varna.bg">
-    IKONOMICHESKI UNIVERSITET - VARNA
-  </a>
-</h4>
+<h4><a href="http://ue-varna.bg">BG VARNA04 - IKONOMICHESKI UNIVERSITET - VARNA</a></h4>
 VARNA, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.naval-acad.bg">
-    NIKOLA VAPTSAROV NAVAL ACADEMY
-  </a>
-</h4>
+<h4><a href="//www.naval-acad.bg">BG VARNA05 - NIKOLA VAPTSAROV NAVAL ACADEMY</a></h4>
 VARNA, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.uni-vt.bg">
-    VELIKOTARNOVSKI UNIVERSITET SV SV KIRIL I METODIY
-  </a>
-</h4>
+<h4><a href="//www.uni-vt.bg">BG VELIKO01 - VELIKOTARNOVSKI UNIVERSITET SV SV KIRIL I METODIY</a></h4>
 VELIKO TARNOVO, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="http://nvu.bg/">
-    Vasil Levski National Military University
-  </a>
-</h4>
+<h4><a href="http://nvu.bg/">BG VELIKO02 - VASIL LEVSKI NATIONAL MILITARY UNIVERSITY</a></h4>
 VELIKO TARNOVO, BG
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---

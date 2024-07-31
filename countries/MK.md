@@ -1,208 +1,158 @@
-<h4>
-  <a href="http://www.uklo.edu.mk">
-    UNIVERSITY ST KLIMENT OHRIDSKI BITOLA
-  </a>
-</h4>
+<h3 align="center">Institutions in Macedonia</h3>
+
+<h4><a href="http://www.uklo.edu.mk">MK BITOLA01 - UNIVERSITY ST KLIMENT OHRIDSKI BITOLA</a></h4>
 BITOLA, MK
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.vizyon.edu.mk">
-    International Vision University
-  </a>
-</h4>
+<h4><a href="//www.vizyon.edu.mk">MK GOSTIVA01 - INTERNATIONAL VISION UNIVERSITY</a></h4>
 GOSTIVAR, MK
+Start Date: Sun, 31 Oct 2021 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.uist.edu.mk">
-    REPUBLIC OF MACEDONIA - UNIVERSITY FOR INFORMATION SCIENCE AND TECHNOLOGY ST.PAUL THE APOSTLE OHRID
-  </a>
-</h4>
+<h4><a href="//www.uist.edu.mk">MK OHRID01 - REPUBLIC OF MACEDONIA - UNIVERSITY FOR INFORMATION SCIENCE AND TECHNOLOGY ST.PAUL THE APOSTLE OHRID</a></h4>
 OHRID, MK
+Start Date: Sun, 31 Oct 2021 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.ukim.edu.mk">
-    Ss. CYRIL AND METHODIUS UNIVERSITY IN SKOPJE
-  </a>
-</h4>
+<h4><a href="//www.ukim.edu.mk">MK SKOPJE01 - SS. CYRIL AND METHODIUS UNIVERSITY IN SKOPJE</a></h4>
 SKOPJE, MK
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.fbe.edu.mk">
-    INTEGRATED BUSINESS FACULTY PU
-  </a>
-</h4>
+<h4><a href="//www.fbe.edu.mk">MK SKOPJE03 - INTEGRATED BUSINESS FACULTY PU</a></h4>
 SKOPJE AERODROM, MK
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.ibu.edu.mk">
-    INTERNATIONAL BALKAN UNIVERSITY
-  </a>
-</h4>
+<h4><a href="//www.ibu.edu.mk">MK SKOPJE04 - INTERNATIONAL BALKAN UNIVERSITY</a></h4>
 SKOPJE, MK
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.eurm.edu.mk">
-    European University Skopje
-  </a>
-</h4>
+<h4><a href="//www.eurm.edu.mk">MK SKOPJE05 - EUROPEAN UNIVERSITY SKOPJE</a></h4>
 SKOPJE, MK
+Start Date: Sun, 31 Oct 2021 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.fon.edu.mk">
-    American University of Europe - FON
-  </a>
-</h4>
+<h4><a href="//www.fon.edu.mk">MK SKOPJE09 - AMERICAN UNIVERSITY OF EUROPE - FON</a></h4>
 SKOPJE, MK
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.uacs.edu.mk">
-    PRIVATE HIGHER EDUCATION INSTITUTION - UNIVERSITY AMERICAN COLLEGE SKOPJE PRIVATNA USTANOVA
-  </a>
-</h4>
+<h4><a href="//www.uacs.edu.mk">MK SKOPJE10 - PRIVATE HIGHER EDUCATION INSTITUTION - UNIVERSITY AMERICAN COLLEGE SKOPJE PRIVATNA USTANOVA</a></h4>
 SKOPJE, MK
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.ibi.edu.mk">
-    Institut za biznis ekonomija
-  </a>
-</h4>
+<h4><a href="//www.ibi.edu.mk">MK SKOPJE11 - INSTITUT ZA BIZNIS EKONOMIJA</a></h4>
 SKOPJE, MK
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="https://www.bas.edu.mk">
-    Private independent higher institution Higher professional school Business Academy Smilevski - BAS, Skopje
-  </a>
-</h4>
+<h4><a href="https://www.bas.edu.mk">MK SKOPJE12 - PRIVATE INDEPENDENT HIGHER INSTITUTION HIGHER PROFESSIONAL SCHOOL BUSINESS ACADEMY SMILEVSKI - BAS, SKOPJE</a></h4>
 SKOPJE, MK
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.eurocollege.edu.mk">
-    P.V.P.U.EURO KOLEDZ KUMANOVO
-  </a>
-</h4>
+<h4><a href="//www.eurocollege.edu.mk">MK SKOPJE13 - P.V.P.U.EURO KOLEDZ KUMANOVO</a></h4>
 KUMANOVO, MK
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.isshs.edu.mk">
-    INSTITUTE OF SOCIAL SCIENCES AND HUMANITIES, SKOPJE
-  </a>
-</h4>
+<h4><a href="//www.isshs.edu.mk">MK SKOPJE14 - INSTITUTE OF SOCIAL SCIENCES AND HUMANITIES, SKOPJE</a></h4>
 SKOPJE, MK
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.utms.edu.mk">
-    University of Skopje
-  </a>
-</h4>
+<h4><a href="//www.utms.edu.mk">MK SKOPJE15 - UNIVERSITY OF SKOPJE</a></h4>
 SKOPJE, MK
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.iks.edu.mk">
-    INSTITUTE OF COMMUNICATION STUDIESSKOPJE
-  </a>
-</h4>
+<h4><a href="//www.iks.edu.mk">MK SKOPJE16 - INSTITUTE OF COMMUNICATION STUDIESSKOPJE</a></h4>
 KARPOS, MK
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="http://unt.edu.mk/">
-    UNIVERZITET MAJKA TEREZA VO SKOPJE
-  </a>
-</h4>
+<h4><a href="http://unt.edu.mk/">MK SKOPJE17 - UNIVERZITET MAJKA TEREZA VO SKOPJE</a></h4>
 SKOPJE, MK
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.mit.edu.mk">
-    MIT Univerzitet, Skopje
-  </a>
-</h4>
+<h4><a href="//www.mit.edu.mk">MK SKOPJE18 - MIT UNIVERZITET, SKOPJE</a></h4>
 SKOPJE, MK
+Start Date: Tue, 25 Jun 2024 22:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.msu.edu.mk">
-    MEGJUNARODEN SLAVJANSKI UNIVERZITET SVETI NIKOLE
-  </a>
-</h4>
+<h4><a href="//www.msu.edu.mk">MK SKOPJE19 - MEGJUNARODEN SLAVJANSKI UNIVERZITET SVETI NIKOLE</a></h4>
 SVETI NIKOLE, MK
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="http://www.ma.edu.mk/">
-    Republika Makedonija Univerzitet Goce Delchev Shtip - Voena Akademija - General Mihajlo Apostolski Skopje - pridruzhna chlenka
-  </a>
-</h4>
+<h4><a href="http://www.ma.edu.mk/">MK SKOPJE20 - REPUBLIKA MAKEDONIJA UNIVERZITET GOCE DELCHEV SHTIP - VOENA AKADEMIJA - GENERAL MIHAJLO APOSTOLSKI SKOPJE - PRIDRUZHNA CHLENKA</a></h4>
 SKOPJE, MK
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.europaprima.com">
-    INTERNACIONALNIOT UNIVERZITET EUROPA PRIMA - SKOPJE
-  </a>
-</h4>
+<h4><a href="//www.europaprima.com">MK SKOPJE21 - INTERNACIONALNIOT UNIVERZITET EUROPA PRIMA - SKOPJE</a></h4>
 SKOPJE, MK
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="http://www.fshi.edu.mk">
-    Faculty of Islamic Science Skopje
-  </a>
-</h4>
+<h4><a href="http://www.fshi.edu.mk">MK SKOPJE22 - FACULTY OF ISLAMIC SCIENCE SKOPJE</a></h4>
 SKOPJE, MK
+Start Date: Tue, 25 Oct 2022 22:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.next.edu.mk">
-    Breinster Next Skopje
-  </a>
-</h4>
+<h4><a href="//www.next.edu.mk">MK SKOPJE23 - BREINSTER NEXT SKOPJE</a></h4>
 SKOPJE, MK
+Start Date: Tue, 25 Jun 2024 22:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.ugd.edu.mk">
-    REPUBLIC OF NORTH MACEDONIA STATE UNIVERSITY STIP GOCE DELCEV STIP
-  </a>
-</h4>
+<h4><a href="//www.ugd.edu.mk">MK STIP01 - REPUBLIC OF NORTH MACEDONIA STATE UNIVERSITY STIP GOCE DELCEV STIP</a></h4>
 STIP, MK
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.iust.edu.mk">
-    INTERNATIONAL UNIVERSITY OF STRUGA
-  </a>
-</h4>
+<h4><a href="//www.iust.edu.mk">MK STRUGA01 - INTERNATIONAL UNIVERSITY OF STRUGA</a></h4>
 STRUGA, MK
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.unite.edu.mk">
-    UNIVERZITET VO TETOVO
-  </a>
-</h4>
+<h4><a href="//www.unite.edu.mk">MK TETOVO01 - UNIVERZITET VO TETOVO</a></h4>
 TETOVO, MK
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.seeu.edu.mk">
-    SOUTH EAST EUROPEAN UNIVERSITY TETOVO
-  </a>
-</h4>
+<h4><a href="//www.seeu.edu.mk">MK TETOVO02 - SOUTH EAST EUROPEAN UNIVERSITY TETOVO</a></h4>
 TETOVO, MK
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---

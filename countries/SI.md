@@ -1,688 +1,518 @@
-<h4>
-  <a href="//www.vgs-bled.si">
-    Visja strokovna sola za gostinstvo, velnes in turizem Bled
-  </a>
-</h4>
+<h3 align="center">Institutions in Slovenia</h3>
+
+<h4><a href="//www.vgs-bled.si">SI BLED01 - VISJA STROKOVNA SOLA ZA GOSTINSTVO, VELNES IN TURIZEM BLED</a></h4>
 BLED, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.vs-bled.si">
-    Visoka sola za hotelirstvo in turizem Bled
-  </a>
-</h4>
+<h4><a href="//www.vs-bled.si">SI BLED02 - VISOKA SOLA ZA HOTELIRSTVO IN TURIZEM BLED</a></h4>
 BLED, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.iedc.si">
-    IEDC-POSLOVNA SOLA BLED, FAKULTETAZA PODIPLOMSKI STUDIJ MANAGEMENTA
-  </a>
-</h4>
+<h4><a href="//www.iedc.si">SI BLED03 - IEDC-POSLOVNA SOLA BLED, FAKULTETAZA PODIPLOMSKI STUDIJ MANAGEMENTA</a></h4>
 BLED, SI
+Start Date: Sun, 31 Oct 2021 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.etrs.si">
-    Ekonomska in trgovska sola Brezice
-  </a>
-</h4>
+<h4><a href="//www.etrs.si">SI BREZICE01 - EKONOMSKA IN TRGOVSKA SOLA BREZICE</a></h4>
 BREZICE, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.hvu.si">
-    Sola za hortikulturo in vizualne umetnosti Celje
-  </a>
-</h4>
+<h4><a href="//www.hvu.si">SI CELJE01 - SOLA ZA HORTIKULTURO IN VIZUALNE UMETNOSTI CELJE</a></h4>
 CELJE, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.mfdps.si">
-    MEDNARODNA FAKULTETA ZA DRUZBENE IN POSLOVNE STUDIJE ZAVOD
-  </a>
-</h4>
+<h4><a href="//www.mfdps.si">SI CELJE03 - MEDNARODNA FAKULTETA ZA DRUZBENE IN POSLOVNE STUDIJE ZAVOD</a></h4>
 CELJE, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.fkpv.si">
-    FAKULTETA ZA KOMERCIALNE IN POSLOVNE VEDE
-  </a>
-</h4>
+<h4><a href="//www.fkpv.si">SI CELJE04 - FAKULTETA ZA KOMERCIALNE IN POSLOVNE VEDE</a></h4>
 CELJE, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="http://www.fvo.si/">
-    FAKULTETA ZA VARSTVO OKOLJA
-  </a>
-</h4>
+<h4><a href="http://www.fvo.si/">SI CELJE06 - FAKULTETA ZA VARSTVO OKOLJA</a></h4>
 VELENJE, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="http://www.sc-celje.si">
-    SOLSKI CENTER CELJE
-  </a>
-</h4>
+<h4><a href="http://www.sc-celje.si">SI CELJE07 - SOLSKI CENTER CELJE</a></h4>
 CELJE, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.fzvce.si">
-    Fakulteta za zdravstvene vede v Celju
-  </a>
-</h4>
+<h4><a href="//www.fzvce.si">SI CELJE08 - FAKULTETA ZA ZDRAVSTVENE VEDE V CELJU</a></h4>
 CELJE, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.vspi.si">
-    Visoka sola za proizvodno inzenirstvo
-  </a>
-</h4>
+<h4><a href="//www.vspi.si">SI CELJE09 - VISOKA SOLA ZA PROIZVODNO INZENIRSTVO</a></h4>
 CELJE, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.escelje.si">
-    Ekonomska sola Celje
-  </a>
-</h4>
+<h4><a href="//www.escelje.si">SI CELJE10 - EKONOMSKA SOLA CELJE</a></h4>
 CELJE, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.abitura.si">
-    Abitura Ltd, education company, Vocational college
-  </a>
-</h4>
+<h4><a href="//www.abitura.si">SI CELJE11 - ABITURA LTD, EDUCATION COMPANY, VOCATIONAL COLLEGE</a></h4>
 CELJE, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.memory.si">
-    Izobrazevalni center Memory, izobrazevanje in svetovanje, d.o.o.
-  </a>
-</h4>
+<h4><a href="//www.memory.si">SI DUTOVLJ02 - IZOBRAZEVALNI CENTER MEMORY, IZOBRAZEVANJE IN SVETOVANJE, D.O.O.</a></h4>
 DUTOVLJE, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="http://www.fzab.si">
-    FAKULTETA ZA ZDRAVSTVO ANGELE BOSKIN
-  </a>
-</h4>
+<h4><a href="http://www.fzab.si">SI JESENIC01 - FAKULTETA ZA ZDRAVSTVO ANGELE BOSKIN</a></h4>
 JESENICE, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.upr.si">
-    UNIVERZA NA PRIMORSKEM UNIVERSITA DEL LITORALE
-  </a>
-</h4>
+<h4><a href="//www.upr.si">SI KOPER03 - UNIVERZA NA PRIMORSKEM UNIVERSITA DEL LITORALE</a></h4>
 KOPER, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="http://www.ss-sezana.si">
-    Solski center Srecka Kosovela Sezana
-  </a>
-</h4>
+<h4><a href="http://www.ss-sezana.si">SI KOPER04 - SOLSKI CENTER SRECKA KOSOVELA SEZANA</a></h4>
 SEZANA, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="http://www.sckr.si">
-    SOLSKI CENTER KRANJ
-  </a>
-</h4>
+<h4><a href="http://www.sckr.si">SI KRANJ04 - SOLSKI CENTER KRANJ</a></h4>
 KRANJ, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.bb.si">
-    B&B izobrazevanje in usposabljanje d.o.o.
-  </a>
-</h4>
+<h4><a href="//www.bb.si">SI KRANJ05 - B&B IZOBRAZEVANJE IN USPOSABLJANJE D.O.O.</a></h4>
 KRANJ, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.bb.si">
-    B&B Visoka sola za trajnostni razvoj
-  </a>
-</h4>
+<h4><a href="//www.bb.si">SI KRANJ06 - B&B VISOKA SOLA ZA TRAJNOSTNI RAZVOJ</a></h4>
 KRANJ, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.vsgi.si">
-    Visoka sola za gradbeno inzenirstvo Kranj, samostojni visokosolski zavod, pridruzena clanica Nove univerze
-  </a>
-</h4>
+<h4><a href="//www.vsgi.si">SI KRANJ07 - VISOKA SOLA ZA GRADBENO INZENIRSTVO KRANJ, SAMOSTOJNI VISOKOSOLSKI ZAVOD, PRIDRUZENA CLANICA NOVE UNIVERZE</a></h4>
 KRANJ, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="http://www.uni-lj.si">
-    UNIVERZA V LJUBLJANI
-  </a>
-</h4>
+<h4><a href="http://www.uni-lj.si">SI LJUBLJA01 - UNIVERZA V LJUBLJANI</a></h4>
 LJUBLJANA, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.cpu.si">
-    GOSPODARSKA ZBORNICA SLOVENIJE CENTER ZA POSLOVNO USPOSABLJANJE
-  </a>
-</h4>
+<h4><a href="//www.cpu.si">SI LJUBLJA05 - GOSPODARSKA ZBORNICA SLOVENIJE CENTER ZA POSLOVNO USPOSABLJANJE</a></h4>
 LJUBLJANA, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.sc-s.si">
-    Solski center Sentjur
-  </a>
-</h4>
+<h4><a href="//www.sc-s.si">SI LJUBLJA06 - SOLSKI CENTER SENTJUR</a></h4>
 ŠENTJUR, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.gea-college.si">
-    GEA COLLEGE CVS DRUZBA ZA VISJESOLSKO IZOBRAZEVANJE - CENTER VISJIH SOL DOO
-  </a>
-</h4>
+<h4><a href="//www.gea-college.si">SI LJUBLJA07 - GEA COLLEGE CVS DRUZBA ZA VISJESOLSKO IZOBRAZEVANJE - CENTER VISJIH SOL DOO</a></h4>
 LJUBLJANA, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.mps.si">
-    MEDNARODNA PODIPLOMSKA SOLA JOZEFA STEFANA
-  </a>
-</h4>
+<h4><a href="//www.mps.si">SI LJUBLJA08 - MEDNARODNA PODIPLOMSKA SOLA JOZEFA STEFANA</a></h4>
 LJUBLJANA, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.fd.si">
-    Fakulteta za dizajn
-  </a>
-</h4>
+<h4><a href="//www.fd.si">SI LJUBLJA09 - FAKULTETA ZA DIZAJN</a></h4>
 TRZIN, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.bic-lj.si">
-    Biotehniski izobrazevalni center Ljubljana
-  </a>
-</h4>
+<h4><a href="//www.bic-lj.si">SI LJUBLJA11 - BIOTEHNISKI IZOBRAZEVALNI CENTER LJUBLJANA</a></h4>
 LJUBLJANA, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.vist.si">
-    VIST - Faculty of applied sciences
-  </a>
-</h4>
+<h4><a href="//www.vist.si">SI LJUBLJA17 - VIST - FACULTY OF APPLIED SCIENCES</a></h4>
 LJUBLJANA, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="http://vps.erudio.si">
-    ERUDIO Centre for higher education
-  </a>
-</h4>
+<h4><a href="http://vps.erudio.si">SI LJUBLJA19 - ERUDIO CENTRE FOR HIGHER EDUCATION</a></h4>
 LJUBLJANA, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.scpet.net">
-    SOLSKI CENTER ZA POSTO, EKONOMIJO IN TELEKOMUNIKACIJE LJUBLJANA
-  </a>
-</h4>
+<h4><a href="//www.scpet.net">SI LJUBLJA23 - SOLSKI CENTER ZA POSTO, EKONOMIJO IN TELEKOMUNIKACIJE LJUBLJANA</a></h4>
 LJUBLJANA, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.vskv.si">
-    Visja strokovna sola za kozmetiko in velnes Ljubljana
-  </a>
-</h4>
+<h4><a href="//www.vskv.si">SI LJUBLJA24 - VISJA STROKOVNA SOLA ZA KOZMETIKO IN VELNES LJUBLJANA</a></h4>
 LJUBLJANA, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.ic-geoss.si">
-    IZOBRAZEVALNI CENTER GEOSS DOO
-  </a>
-</h4>
+<h4><a href="//www.ic-geoss.si">SI LJUBLJA25 - IZOBRAZEVALNI CENTER GEOSS DOO</a></h4>
 LITIJA, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.mlcljubljana.com">
-    MLC LJUBLJANA
-  </a>
-</h4>
+<h4><a href="//www.mlcljubljana.com">SI LJUBLJA26 - MLC LJUBLJANA</a></h4>
 LJUBLJANA, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.ices.si">
-    Izobrazevalni center energetskega sistema
-  </a>
-</h4>
+<h4><a href="//www.ices.si">SI LJUBLJA27 - IZOBRAZEVALNI CENTER ENERGETSKEGA SISTEMA</a></h4>
 LJUBLJANA, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="http://www.vsr.si">
-    VSR - Visoka sola za racunovodstvo in finance, Ljubljana / College for Accounting and Finance, Ljubljana
-  </a>
-</h4>
+<h4><a href="http://www.vsr.si">SI LJUBLJA28 - VSR - VISOKA SOLA ZA RACUNOVODSTVO IN FINANCE, LJUBLJANA / COLLEGE FOR ACCOUNTING AND FINANCE, LJUBLJANA</a></h4>
 LJUBLJANA, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.vspv.si">
-    B2 Visoka sola za poslovne vede, zavod
-  </a>
-</h4>
+<h4><a href="//www.vspv.si">SI LJUBLJA30 - B2 VISOKA SOLA ZA POSLOVNE VEDE, ZAVOD</a></h4>
 LJUBLJANA, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.katoliski-institut.si">
-    Fakulteta za poslovne vede
-  </a>
-</h4>
+<h4><a href="//www.katoliski-institut.si">SI LJUBLJA31 - FAKULTETA ZA POSLOVNE VEDE</a></h4>
 LJUBLJANA, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.ps-zrc-sazu.org">
-    Postgraduate School ZRC SAZU
-  </a>
-</h4>
+<h4><a href="//www.ps-zrc-sazu.org">SI LJUBLJA32 - POSTGRADUATE SCHOOL ZRC SAZU</a></h4>
 LJUBLJANA, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.kgbl.si">
-    Konservatorij za glasbo in balet Ljubljana
-  </a>
-</h4>
+<h4><a href="//www.kgbl.si">SI LJUBLJA33 - KONSERVATORIJ ZA GLASBO IN BALET LJUBLJANA</a></h4>
 LJUBLJANA, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="https://www.erudio.si/slovenscina/visja-strokovna-sola/visja-strokovna-sola">
-    ERUDIO izobrazevalni center, zavod za izobrazevanje, svetovanje in organizacijo, ERUDIO VISJA STROKOVNA SOLA
-  </a>
-</h4>
+<h4><a href="https://www.erudio.si/slovenscina/visja-strokovna-sola/visja-strokovna-sola">SI LJUBLJA35 - ERUDIO IZOBRAZEVALNI CENTER, ZAVOD ZA IZOBRAZEVANJE, SVETOVANJE IN ORGANIZACIJO, ERUDIO VISJA STROKOVNA SOLA</a></h4>
 LJUBLJANA, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.ava.si">
-    Akademija za vizualne umetnosti AVA
-  </a>
-</h4>
+<h4><a href="//www.ava.si">SI LJUBLJA37 - AKADEMIJA ZA VIZUALNE UMETNOSTI AVA</a></h4>
 LJUBLJANA, SI
+Start Date: Sun, 31 Oct 2021 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.sclj.si">
-    Solski center Ljubljana
-  </a>
-</h4>
+<h4><a href="//www.sclj.si">SI LJUBLJA38 - SOLSKI CENTER LJUBLJANA</a></h4>
 LJUBLJANA, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="http://www.ish.si">
-    ALMA MATER EUROPAEA - INSTITUTUM STUDIORUM HUMANITATIS FAKULTETA ZA PODIPLOMSKI HUMANISTICNI STUDIJ, LJUBLJANA
-  </a>
-</h4>
+<h4><a href="http://www.ish.si">SI LJUBLJA39 - ALMA MATER EUROPAEA - INSTITUTUM STUDIORUM HUMANITATIS FAKULTETA ZA PODIPLOMSKI HUMANISTICNI STUDIJ, LJUBLJANA</a></h4>
 LJUBLJANA, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.iam.si">
-    IAM - Institut in akademija za multimedije
-  </a>
-</h4>
+<h4><a href="//www.iam.si">SI LJUBLJA40 - IAM - INSTITUT IN AKADEMIJA ZA MULTIMEDIJE</a></h4>
 LJUBLJANA, SI
+Start Date: Tue, 25 Jun 2024 22:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  
-    SOFIZO IZOBRAZEVALNI CENTER DOO
-  
-</h4>
+<h4>SI LJUBLJA41 - SOFIZO IZOBRAZEVALNI CENTER DOO</h4>
 LJUBLJANA, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.danceacademy.si">
-    ALMA MATER EUROPAEA - AKADEMIJA ZA PLES
-  </a>
-</h4>
+<h4><a href="//www.danceacademy.si">SI LJUBLJA42 - ALMA MATER EUROPAEA - AKADEMIJA ZA PLES</a></h4>
 LJUBLJANA, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.mynoa.com">
-    NOA
-  </a>
-</h4>
+<h4><a href="//www.mynoa.com">SI LJUBLJA44 - NOA</a></h4>
 LJUBLJANA, SI
+Start Date: Tue, 25 Oct 2022 22:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.um.si">
-    UNIVERZA V MARIBORU
-  </a>
-</h4>
+<h4><a href="//www.um.si">SI MARIBOR01 - UNIVERZA V MARIBORU</a></h4>
 MARIBOR, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.fakulteta.doba.si">
-    DOBA FAKULTETA ZA UPORABNE POSLOVNEIN DRUZBENE STUDIJE MARIBOR
-  </a>
-</h4>
+<h4><a href="//www.fakulteta.doba.si">SI MARIBOR02 - DOBA FAKULTETA ZA UPORABNE POSLOVNEIN DRUZBENE STUDIJE MARIBOR</a></h4>
 MARIBOR, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.vsgt-mb.si">
-    VISJA STROKOVNA SOLA ZA GOSTINSTVO IN TURIZEM MARIBOR
-  </a>
-</h4>
+<h4><a href="//www.vsgt-mb.si">SI MARIBOR03 - VISJA STROKOVNA SOLA ZA GOSTINSTVO IN TURIZEM MARIBOR</a></h4>
 MARIBOR, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.lesarska-sola-maribor.net">
-    LESARSKA SOLA MARIBOR
-  </a>
-</h4>
+<h4><a href="//www.lesarska-sola-maribor.net">SI MARIBOR04 - LESARSKA SOLA MARIBOR</a></h4>
 MARIBOR, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="http://www.icp-mb.si">
-    IZOBRAZEVALNI CENTER PIRAMIDA MARIBOR
-  </a>
-</h4>
+<h4><a href="http://www.icp-mb.si">SI MARIBOR05 - IZOBRAZEVALNI CENTER PIRAMIDA MARIBOR</a></h4>
 MARIBOR, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.visja.doba.si">
-    DOBA EPIS d.o.o.
-  </a>
-</h4>
+<h4><a href="//www.visja.doba.si">SI MARIBOR06 - DOBA EPIS D.O.O.</a></h4>
 MARIBOR, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.academia.si">
-    ACADEMIA, IZOBRAZEVANJE IN DRUGE STORITVE DOO
-  </a>
-</h4>
+<h4><a href="//www.academia.si">SI MARIBOR07 - ACADEMIA, IZOBRAZEVANJE IN DRUGE STORITVE DOO</a></h4>
 MARIBOR, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="http://www.prometna.net">
-    PROMETNA SOLA MARIBOR
-  </a>
-</h4>
+<h4><a href="http://www.prometna.net">SI MARIBOR08 - PROMETNA SOLA MARIBOR</a></h4>
 MARIBOR, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.ftpo.eu">
-    FAKULTETA ZA TEHNOLOGIJO POLIMEROV
-  </a>
-</h4>
+<h4><a href="//www.ftpo.eu">SI MARIBOR09 - FAKULTETA ZA TEHNOLOGIJO POLIMEROV</a></h4>
 SLOVENJ GRADEC, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//WWW.ALMAMATER.SI">
-    ALMA MATER EUROPAEA-EVROPSKI CENTER, MARIBOR
-  </a>
-</h4>
+<h4><a href="//WWW.ALMAMATER.SI">SI MARIBOR10 - ALMA MATER EUROPAEA-EVROPSKI CENTER, MARIBOR</a></h4>
 MARIBOR, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.scptuj.si">
-    Solski center Ptuj
-  </a>
-</h4>
+<h4><a href="//www.scptuj.si">SI MARIBOR11 - SOLSKI CENTER PTUJ</a></h4>
 PTUJ, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="https://www.fzsv.si/">
-    Fakulteta za zdravstvene in socialne vede Slovenj Gradec
-  </a>
-</h4>
+<h4><a href="https://www.fzsv.si/">SI MARIBOR12 - FAKULTETA ZA ZDRAVSTVENE IN SOCIALNE VEDE SLOVENJ GRADEC</a></h4>
 SLOVENJ GRADEC, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.tscmb.si">
-    TEHNISKI SOLSKI CENTER MARIBOR
-  </a>
-</h4>
+<h4><a href="//www.tscmb.si">SI MARIBOR13 - TEHNISKI SOLSKI CENTER MARIBOR</a></h4>
 MARIBOR, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="http://www.fizioterapevtika.si/">
-    Visokosolski zavod Fizioterapevtika
-  </a>
-</h4>
+<h4><a href="http://www.fizioterapevtika.si/">SI MEDVOD01 - VISOKOSOLSKI ZAVOD FIZIOTERAPEVTIKA</a></h4>
 MEDVODE, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.vss-ms.si">
-    Ekonomska sola Murska Sobota, Visja strokovna sola
-  </a>
-</h4>
+<h4><a href="//www.vss-ms.si">SI MU-SOB01 - EKONOMSKA SOLA MURSKA SOBOTA, VISJA STROKOVNA SOLA</a></h4>
 MURSKA SOBOTA, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.bc-naklo.si">
-    BIOTEHNISKI CENTER NAKLO
-  </a>
-</h4>
+<h4><a href="//www.bc-naklo.si">SI NAKLO01 - BIOTEHNISKI CENTER NAKLO</a></h4>
 NAKLO, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.ung.si">
-    UNIVERZA V NOVI GORICI
-  </a>
-</h4>
+<h4><a href="//www.ung.si">SI NOVA-GO01 - UNIVERZA V NOVI GORICI</a></h4>
 NOVA GORICA, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="http://www.fuds.si/en">
-    FAKULTETA ZA UPORABNE DRUZBENE STUDIJE V NOVI GORICI ZAVOD
-  </a>
-</h4>
+<h4><a href="http://www.fuds.si/en">SI NOVA-GO02 - FAKULTETA ZA UPORABNE DRUZBENE STUDIJE V NOVI GORICI ZAVOD</a></h4>
 NOVA GORICA, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.scng.si">
-    SOLSKI CENTER NOVA GORICA
-  </a>
-</h4>
+<h4><a href="//www.scng.si">SI NOVA-GO05 - SOLSKI CENTER NOVA GORICA</a></h4>
 NOVA GORICA, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.lampret-consulting.si">
-    Lampret consulting,Higher Vocational College
-  </a>
-</h4>
+<h4><a href="//www.lampret-consulting.si">SI NOVA-GO06 - LAMPRET CONSULTING,HIGHER VOCATIONAL COLLEGE</a></h4>
 NOVA GORICA, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.nova-uni.si">
-    NOVA UNIVERZA
-  </a>
-</h4>
+<h4><a href="//www.nova-uni.si">SI NOVA-GO07 - NOVA UNIVERZA</a></h4>
 NOVA GORICA, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  
-    Grm Novo mesto - center biotehnike in turizma
-  
-</h4>
+<h4>SI NOVO-ME02 - GRM NOVO MESTO - CENTER BIOTEHNIKE IN TURIZMA</h4>
 NOVO MESTO, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="http://www.sc-nm.si">
-    SOLSKI CENTER NOVO MESTO
-  </a>
-</h4>
+<h4><a href="http://www.sc-nm.si">SI NOVO-ME03 - SOLSKI CENTER NOVO MESTO</a></h4>
 NOVO MESTO, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.esnm.si">
-    Ekonomska sola Novo mesto
-  </a>
-</h4>
+<h4><a href="//www.esnm.si">SI NOVO-ME04 - EKONOMSKA SOLA NOVO MESTO</a></h4>
 NOVO MESTO, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="http://www.fis.unm.si/en/">
-    FAKULTETA ZA INFORMACIJSKE STUDIJE V NOVEM MESTU
-  </a>
-</h4>
+<h4><a href="http://www.fis.unm.si/en/">SI NOVO-ME05 - FAKULTETA ZA INFORMACIJSKE STUDIJE V NOVEM MESTU</a></h4>
 NOVO MESTO, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//fos-unm.si">
-    FAKULTETA ZA ORGANIZACIJSKE STUDIJEV NOVEM MESTU
-  </a>
-</h4>
+<h4><a href="//fos-unm.si">SI NOVO-ME10 - FAKULTETA ZA ORGANIZACIJSKE STUDIJEV NOVEM MESTU</a></h4>
 NOVO MESTO, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.fini-unm.si">
-    FAKULTETA ZA INDUSTRIJSKI INZENIRING NOVO MESTO
-  </a>
-</h4>
+<h4><a href="//www.fini-unm.si">SI NOVO-ME11 - FAKULTETA ZA INDUSTRIJSKI INZENIRING NOVO MESTO</a></h4>
 NOVO MESTO, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="http://vsgrm.unm.si">
-    Visoka sola za upravljanje podezelja Grm Novo mesto
-  </a>
-</h4>
+<h4><a href="http://vsgrm.unm.si">SI NOVO-ME12 - VISOKA SOLA ZA UPRAVLJANJE PODEZELJA GRM NOVO MESTO</a></h4>
 NOVO MESTO, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="https://uni-nm.si/">
-    Univerza v Novem mestu
-  </a>
-</h4>
+<h4><a href="https://uni-nm.si/">SI NOVO-ME13 - UNIVERZA V NOVEM MESTU</a></h4>
 NOVO MESTO, SI
+Start Date: Sun, 31 Oct 2021 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.gea-college.si">
-    GEA COLLEGE - FAKULTETA ZA PODJETNISTVO
-  </a>
-</h4>
+<h4><a href="//www.gea-college.si">SI PORTORO02 - GEA COLLEGE - FAKULTETA ZA PODJETNISTVO</a></h4>
 LJUBLJANA, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.emuni.si">
-    EVRO-SREDOZEMSKA UNIVERZA
-  </a>
-</h4>
+<h4><a href="//www.emuni.si">SI PORTORO03 - EVRO-SREDOZEMSKA UNIVERZA</a></h4>
 PIRAN, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.scpo.si">
-    Solski center Postojna
-  </a>
-</h4>
+<h4><a href="//www.scpo.si">SI POSTOJN01 - SOLSKI CENTER POSTOJNA</a></h4>
 POSTOJNA, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="https://visjasolaravne.si">
-    Solski center Ravne na Koroskem, Visja strokovna sola
-  </a>
-</h4>
+<h4><a href="https://visjasolaravne.si">SI RAVNE01 - SOLSKI CENTER RAVNE NA KOROSKEM, VISJA STROKOVNA SOLA</a></h4>
 RAVNE NA KOROSKEM, SI
+Start Date: Tue, 25 Jun 2024 22:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.arema.si">
-    AREMA Visoka sola za regionalni management
-  </a>
-</h4>
+<h4><a href="//www.arema.si">SI ROGASKA01 - AREMA VISOKA SOLA ZA REGIONALNI MANAGEMENT</a></h4>
 ROGASKA SLATINA, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.prah.si">
-    Prah, izobrazevalni center, izobrazevanje in usposabljanje, d.o.o., Visja strokovna sola Rogaska Slatina
-  </a>
-</h4>
+<h4><a href="//www.prah.si">SI ROGASKA02 - PRAH, IZOBRAZEVALNI CENTER, IZOBRAZEVANJE IN USPOSABLJANJE, D.O.O., VISJA STROKOVNA SOLA ROGASKA SLATINA</a></h4>
 ROGAŠKA SLATINA, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.scsl.si">
-    Solski center Skofja Loka
-  </a>
-</h4>
+<h4><a href="//www.scsl.si">SI SKOFJAL01 - SOLSKI CENTER SKOFJA LOKA</a></h4>
 ŠKOFJA LOKA, SI
+Start Date: Tue, 25 Oct 2022 22:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.sc-sg.net">
-    SOLSKI CENTER SLOVENJ GRADEC
-  </a>
-</h4>
+<h4><a href="//www.sc-sg.net">SI SLOVENJ01 - SOLSKI CENTER SLOVENJ GRADEC</a></h4>
 SLOVENJ GRADEC, SI
+Start Date: Thu, 31 Dec 2020 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
-<h4>
-  <a href="//www.scv.si">
-    SOLSKI CENTER VELENJE
-  </a>
-</h4>
+<h4><a href="//www.scv.si">SI VELENJE01 - SOLSKI CENTER VELENJE</a></h4>
 VELENJE, SI
+Start Date: Sun, 31 Oct 2021 23:00:00 GMT
+End Date: Sun, 30 Dec 2029 23:00:00 GMT
 
 ---
