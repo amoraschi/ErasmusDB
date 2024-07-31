@@ -2,205 +2,205 @@
 
 <h4><a href="//www.akolegija.lt">LT ALYTUS01 - ALYTAUS KOLEGIJA</a></h4>
 ALYTUS, LT
-Start Date: Thu, 31 Dec 2020 23:00:00 GMT
-End Date: Sun, 30 Dec 2029 23:00:00 GMT
+
+1/1/2021 - 31/12/2029
 
 ---
 <h4><a href="//www.vdu.lt">LT KAUNAS01 - VYTAUTO DIDZIOJO UNIVERSITETAS</a></h4>
 KAUNAS, LT
-Start Date: Thu, 31 Dec 2020 23:00:00 GMT
-End Date: Sun, 30 Dec 2029 23:00:00 GMT
+
+1/1/2021 - 31/12/2029
 
 ---
 <h4><a href="//ktu.edu">LT KAUNAS02 - KAUNO TECHNOLOGIJOS UNIVERSITETAS</a></h4>
 KAUNAS, LT
-Start Date: Thu, 31 Dec 2020 23:00:00 GMT
-End Date: Sun, 30 Dec 2029 23:00:00 GMT
+
+1/1/2021 - 31/12/2029
 
 ---
 <h4><a href="//www.lsu.lt">LT KAUNAS04 - LIETUVOS SPORTO UNIVERSITETAS</a></h4>
 KAUNAS, LT
-Start Date: Thu, 31 Dec 2020 23:00:00 GMT
-End Date: Sun, 30 Dec 2029 23:00:00 GMT
+
+1/1/2021 - 31/12/2029
 
 ---
 <h4><a href="//www.kaunokolegija.lt">LT KAUNAS08 - KAUNO KOLEGIJA</a></h4>
 KAUNAS, LT
-Start Date: Thu, 31 Dec 2020 23:00:00 GMT
-End Date: Sun, 30 Dec 2029 23:00:00 GMT
+
+1/1/2021 - 31/12/2029
 
 ---
 <h4><a href="//www.kolping.lt">LT KAUNAS11 - VIESOJI ISTAIGA KOLPINGO KOLEGIJA</a></h4>
 KAUNAS, LT
-Start Date: Thu, 31 Dec 2020 23:00:00 GMT
-End Date: Sun, 30 Dec 2029 23:00:00 GMT
+
+1/1/2021 - 31/12/2029
 
 ---
 <h4><a href="//www.ktk.lt">LT KAUNAS12 - KAUNO TECHNIKOS KOLEGIJA</a></h4>
 KAUNAS, LT
-Start Date: Thu, 31 Dec 2020 23:00:00 GMT
-End Date: Sun, 30 Dec 2029 23:00:00 GMT
+
+1/1/2021 - 31/12/2029
 
 ---
 <h4><a href="//www.lsmuni.lt">LT KAUNAS13 - LIETUVOS SVEIKATOS MOKSLU UNIVERSITETAS</a></h4>
 KAUNAS, LT
-Start Date: Thu, 31 Dec 2020 23:00:00 GMT
-End Date: Sun, 30 Dec 2029 23:00:00 GMT
+
+1/1/2021 - 31/12/2029
 
 ---
 <h4><a href="//www.ilk.lt">LT KAUNAS14 - SV.IGNACO LOJOLOS KOLEGIJA</a></h4>
 KAUNAS, LT
-Start Date: Thu, 31 Dec 2020 23:00:00 GMT
-End Date: Sun, 30 Dec 2029 23:00:00 GMT
+
+1/1/2021 - 31/12/2029
 
 ---
 <h4><a href="//www.kmaik.lt">LT KAUNO01 - KAUNO MISKU IR APLINKOS INZINERIJOS KOLEGIJA</a></h4>
 GIRIONYS, LT
-Start Date: Thu, 31 Dec 2020 23:00:00 GMT
-End Date: Sun, 30 Dec 2029 23:00:00 GMT
+
+1/1/2021 - 31/12/2029
 
 ---
 <h4><a href="//www.ku.lt">LT KLAIPED01 - KLAIPEDOS UNIVERSITETAS</a></h4>
 KLAIPEDA, LT
-Start Date: Thu, 31 Dec 2020 23:00:00 GMT
-End Date: Sun, 30 Dec 2029 23:00:00 GMT
+
+1/1/2021 - 31/12/2029
 
 ---
 <h4><a href="//www.lcc.lt">LT KLAIPED02 - LCC INTERNATIONAL UNIVERSITY</a></h4>
 KLAIPEDA, LT
-Start Date: Thu, 31 Dec 2020 23:00:00 GMT
-End Date: Sun, 30 Dec 2029 23:00:00 GMT
+
+1/1/2021 - 31/12/2029
 
 ---
 <h4><a href="//www.smk.lt">LT KLAIPED04 - SMK AUKSTOJI MOKYKLA</a></h4>
 KLAIPEDA, LT
-Start Date: Thu, 31 Dec 2020 23:00:00 GMT
-End Date: Sun, 30 Dec 2029 23:00:00 GMT
+
+1/1/2021 - 31/12/2029
 
 ---
 <h4><a href="http://www.lajm.lt">LT KLAIPED06 - LIETUVOS AUKSTOJI JUREIVYSTES MOKYKLA</a></h4>
 KLAIPEDA, LT
-Start Date: Thu, 31 Dec 2020 23:00:00 GMT
-End Date: Sun, 30 Dec 2029 23:00:00 GMT
+
+1/1/2021 - 31/12/2029
 
 ---
 <h4><a href="//www.ltvk.lt">LT KLAIPED07 - LIETUVOS VERSLO KOLEGIJA</a></h4>
 KLAIPEDA, LT
-Start Date: Thu, 31 Dec 2020 23:00:00 GMT
-End Date: Sun, 30 Dec 2029 23:00:00 GMT
+
+1/1/2021 - 31/12/2029
 
 ---
 <h4><a href="//www.kvk.lt">LT KLAIPED09 - KLAIPEDOS VALSTYBINE KOLEGIJA</a></h4>
 KLAIPEDA, LT
-Start Date: Thu, 31 Dec 2020 23:00:00 GMT
-End Date: Sun, 30 Dec 2029 23:00:00 GMT
+
+1/1/2021 - 31/12/2029
 
 ---
 <h4><a href="//www.marko.lt">LT MARIJAM01 - MARIJAMPOLE UNIVERSITY OF APPLIED SCIENCES</a></h4>
 MARIJAMPOLE, LT
-Start Date: Thu, 31 Dec 2020 23:00:00 GMT
-End Date: Sun, 30 Dec 2029 23:00:00 GMT
+
+1/1/2021 - 31/12/2029
 
 ---
 <h4><a href="//www.panko.lt">LT PANEVEZ01 - PANEVEZIO KOLEGIJA VIESOJI ISTAIGA</a></h4>
 PANEVEZYS, LT
-Start Date: Thu, 31 Dec 2020 23:00:00 GMT
-End Date: Sun, 30 Dec 2029 23:00:00 GMT
+
+1/1/2021 - 31/12/2029
 
 ---
 <h4><a href="//www.svako.lt">LT SIAULIA03 - SIAULIU VALSTYBINE KOLEGIJA</a></h4>
 SIAULIAI, LT
-Start Date: Thu, 31 Dec 2020 23:00:00 GMT
-End Date: Sun, 30 Dec 2029 23:00:00 GMT
+
+1/1/2021 - 31/12/2029
 
 ---
 <h4><a href="//www.utenos-kolegija.lt">LT UTENA01 - UTENOS KOLEGIJA</a></h4>
 UTENA, LT
-Start Date: Thu, 31 Dec 2020 23:00:00 GMT
-End Date: Sun, 30 Dec 2029 23:00:00 GMT
+
+1/1/2021 - 31/12/2029
 
 ---
 <h4><a href="http://www.vu.lt">LT VILNIUS01 - VILNIAUS UNIVERSITETAS</a></h4>
 VILNIUS, LT
-Start Date: Thu, 31 Dec 2020 23:00:00 GMT
-End Date: Sun, 30 Dec 2029 23:00:00 GMT
+
+1/1/2021 - 31/12/2029
 
 ---
 <h4><a href="//www.vilniustech.lt">LT VILNIUS02 - VILNIAUS GEDIMINO TECHNIKOS UNIVERSITETAS</a></h4>
 VILNIUS, LT
-Start Date: Thu, 31 Dec 2020 23:00:00 GMT
-End Date: Sun, 30 Dec 2029 23:00:00 GMT
+
+1/1/2021 - 31/12/2029
 
 ---
 <h4><a href="//www.vda.lt">LT VILNIUS03 - VILNIAUS DAILES AKADEMIJA</a></h4>
 VILNIUS, LT
-Start Date: Thu, 31 Dec 2020 23:00:00 GMT
-End Date: Sun, 30 Dec 2029 23:00:00 GMT
+
+1/1/2021 - 31/12/2029
 
 ---
 <h4><a href="//www.lmta.lt">LT VILNIUS05 - LIETUVOS MUZIKOS IR TEATRO AKADEMIJA</a></h4>
 VILNIUS, LT
-Start Date: Thu, 31 Dec 2020 23:00:00 GMT
-End Date: Sun, 30 Dec 2029 23:00:00 GMT
+
+1/1/2021 - 31/12/2029
 
 ---
 <h4><a href="//www.mruni.eu">LT VILNIUS06 - MYKOLO ROMERIO UNIVERSITETAS</a></h4>
 VILNIUS, LT
-Start Date: Thu, 31 Dec 2020 23:00:00 GMT
-End Date: Sun, 30 Dec 2029 23:00:00 GMT
+
+1/1/2021 - 31/12/2029
 
 ---
 <h4><a href="//www.kolegija.lt">LT VILNIUS08 - VIESOJI ISTAIGA VILNIAUS VERSLO KOLEGIJA</a></h4>
 VILNIUS, LT
-Start Date: Thu, 31 Dec 2020 23:00:00 GMT
-End Date: Sun, 30 Dec 2029 23:00:00 GMT
+
+1/1/2021 - 31/12/2029
 
 ---
 <h4><a href="//www.viko.lt">LT VILNIUS10 - VILNIAUS KOLEGIJA</a></h4>
 VILNIUS, LT
-Start Date: Thu, 31 Dec 2020 23:00:00 GMT
-End Date: Sun, 30 Dec 2029 23:00:00 GMT
+
+1/1/2021 - 31/12/2029
 
 ---
 <h4><a href="//www.vtdko.lt">LT VILNIUS14 - VILNIAUS TECHNOLOGIJU IR DIZAINO KOLEGIJA</a></h4>
 VILNIUS, LT
-Start Date: Thu, 31 Dec 2020 23:00:00 GMT
-End Date: Sun, 30 Dec 2029 23:00:00 GMT
+
+1/1/2021 - 31/12/2029
 
 ---
 <h4><a href="//www.ttvam.lt">LT VILNIUS15 - TARPTAUTINE TEISES IR VERSLO AUKSTOJI MOKYKLA UAB</a></h4>
 VILNIUS, LT
-Start Date: Thu, 31 Dec 2020 23:00:00 GMT
-End Date: Sun, 30 Dec 2029 23:00:00 GMT
+
+1/1/2021 - 31/12/2029
 
 ---
 <h4><a href="//www.lka">LT VILNIUS16 - GENEROLO JONO ZEMAICIO LIETUVOS KARO AKADEMIJA</a></h4>
 VILNIUS, LT
-Start Date: Thu, 31 Dec 2020 23:00:00 GMT
-End Date: Sun, 30 Dec 2029 23:00:00 GMT
+
+1/1/2021 - 31/12/2029
 
 ---
 <h4><a href="//www.ehu.lt">LT VILNIUS20 - VIESOJI ISTAIGA EUROPOS HUMANITARINIS UNIVERSITETAS</a></h4>
 VILNIUS, LT
-Start Date: Thu, 31 Dec 2020 23:00:00 GMT
-End Date: Sun, 30 Dec 2029 23:00:00 GMT
+
+1/1/2021 - 31/12/2029
 
 ---
 <h4><a href="//www.dizainokolegija.lt">LT VILNIUS23 - VILNIAUS DIZAINO KOLEGIJA</a></h4>
 VILNIUS, LT
-Start Date: Thu, 31 Dec 2020 23:00:00 GMT
-End Date: Sun, 30 Dec 2029 23:00:00 GMT
+
+1/1/2021 - 31/12/2029
 
 ---
 <h4><a href="//www.ksu.lt">LT VILNIUS24 - KAZIMIERO SIMONAVICIAUS UNIVERSITETAS, UAB</a></h4>
 VILNIUS, LT
-Start Date: Thu, 31 Dec 2020 23:00:00 GMT
-End Date: Sun, 30 Dec 2029 23:00:00 GMT
+
+1/1/2021 - 31/12/2029
 
 ---
 <h4><a href="//www.ism.lt">LT VILNIUS25 - ISM VADYBOS IR EKONOMIKOS UNIVERSITETAS UAB</a></h4>
 VILNIUS, LT
-Start Date: Thu, 31 Dec 2020 23:00:00 GMT
-End Date: Sun, 30 Dec 2029 23:00:00 GMT
+
+1/1/2021 - 31/12/2029
 
 ---
