@@ -1,13 +1,38 @@
 import { readFileSync, writeFileSync } from 'fs'
 
+const countries = JSON.parse(readFileSync('data/countries.json', 'utf8'))
 const readme = readFileSync('README.md', 'utf8')
 const start = readme.indexOf('<!-- LIST BEGIN -->') + 19
 const end = readme.indexOf('<!-- LIST END -->')
 
 const data = JSON.parse(readFileSync('data/destinations.json', 'utf8'))
 
-const list = data.map((item) => {
-  return `<h4><a href="${item.website_url}">${item.legal_name}</a></h4>\n${item.city}, ${item.country_cd}\n\n---\n`
+// const list = data.map((item) => {
+//   const url = item.website_url?.startsWith('http') ? item.website_url : `//${item.website_url}`
+
+//   return `
+//   <h4>
+//     ${item.website_url != null ? `<a href="${url}">` : ''}
+//       ${item.legal_name}
+//     ${item.website_url != null ? '</a>' : ''}
+//   </h4>
+//   ${item.city.toUpperCase()}, ${item.country_cd}
+//   \n---`
+// }).join('\n')
+
+// const updatedReadme = `${readme.slice(0, start)}\n${list}\n${readme.slice(end)}`
+// writeFileSync('README.md', updatedReadme)
+
+const codes = new Set(data.map((item) => item.country_cd))
+const list = Array.from(codes).map((code) => {
+  const url = `/${code}`
+
+  return `
+  - <span>
+    <a href="${url}">
+      ${countries[code]}
+    </a>
+  </span>`
 }).join('\n')
 
 const updatedReadme = `${readme.slice(0, start)}\n${list}\n${readme.slice(end)}`
