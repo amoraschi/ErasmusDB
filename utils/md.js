@@ -1,4 +1,4 @@
-import { readFileSync, writeFileSync } from 'fs'
+import { mkdirSync, readFileSync, writeFileSync } from 'fs'
 
 const countries = JSON.parse(readFileSync('data/countries.json', 'utf8'))
 const readme = readFileSync('README.md', 'utf8')
@@ -24,8 +24,18 @@ const data = JSON.parse(readFileSync('data/destinations.json', 'utf8'))
 // writeFileSync('README.md', updatedReadme)
 
 const codes = new Set(data.map((item) => item.country_cd))
+const countriesGroupedCode = data.reduce((acc, item) => {
+  if (!acc[item.country_cd]) {
+    acc[item.country_cd] = []
+  }
+
+  acc[item.country_cd].push(item)
+
+  return acc
+}, {})
+
 const list = Array.from(codes).sort((a, b) => countries[a].localeCompare(countries[b])).map((code) => {
-  const url = `/${code}`
+  const url = `/countries/${code}.md`
 
   return `
   <p align="center">
@@ -37,3 +47,21 @@ const list = Array.from(codes).sort((a, b) => countries[a].localeCompare(countri
 
 const updatedReadme = `${readme.slice(0, start)}\n${list}\n${readme.slice(end)}`
 writeFileSync('README.md', updatedReadme)
+
+codes.forEach((code) => {
+  const list = countriesGroupedCode[code].map((item) => {
+    const url = item.website_url?.startsWith('http') ? item.website_url : `//${item.website_url}`
+
+    return (
+`<h4>
+  ${item.website_url != null ? `<a href="${url}">` : ''}
+    ${item.legal_name}
+  ${item.website_url != null ? '</a>' : ''}
+</h4>
+${item.city.toUpperCase()}, ${item.country_cd}
+\n---`
+    )
+  }).join('\n')
+
+  writeFileSync(`countries/${code}.md`, list)
+})
