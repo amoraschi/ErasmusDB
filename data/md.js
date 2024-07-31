@@ -28,7 +28,7 @@ const list = Array.from(codes).map((code) => {
   const url = `/${code}`
 
   return `
-  - <span>
+  <span>
     <a href="${url}">
       ${countries[code]}
     </a>

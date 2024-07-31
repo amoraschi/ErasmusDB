@@ -2,7 +2,7 @@
   "name": "erasmusdb",
   "version": "1.0.0",
   "description": "Erasmus+ Destinations",
-  "main": "data/readme.js",
+  "main": "data/md.js",
   "scripts": {
     "start": "node ."
   },
